@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-Glad to see you here. I'm a passionate software developer with a keen interest in open-source technologies and a love for creating innovative solutions. My journey in the tech world has been driven by curiosity and a desire to constantly learn and grow.
+Glad to see you here. I'm a passionate software developer with a keen interest in open-source technologies and a love for creating innovative solutions. My journey in the tech world has been driven by curiosity and a constant desire to learn and grow.
 
 - 🌱 Currently learning: Advanced algorithms and cloud computing
 - 👯 Looking to collaborate on: Open-source projects, web development, and AI/ML initiatives
@@ -15,13 +15,15 @@ Glad to see you here. I'm a passionate software developer with a keen interest i
 ## 🛠️ Skills
 
 - **Languages:** JavaScript, Java, C++, C
-- **Web Development:** HTML, CSS, React JS, Node.js, Spring Boot, JPA/Hibernate
+- **Web Development:** HTML, CSS, React JS, Angular JS, Spring Boot, JPA/Hibernate
 - **Databases:** MySQL, PostgreSQL
 - **Tools & Platforms:** Git/GitHub, Docker, AWS, Jira, Redis
 
 ## 📈 GitHub Stats
+![satwik-bhardwaj's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satwik-bhardwaj&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![satwik-bhardwaj's Streak](https://github-readme-streak-stats.herokuapp.com/?user=satwik-bhardwaj&theme=tokyonight&hide_border=true)
+![satwik-bhardwaj's Stats](https://github-readme-stats.vercel.app/api?username=satwik-bhardwaj&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-![Satwik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satwik-Bhardwaj&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
 
